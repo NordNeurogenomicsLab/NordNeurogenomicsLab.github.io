@@ -13,7 +13,7 @@ div.ex1 {
   height: 400px;
   overflow-y: scroll;
 }
-<style>
+</style>
 
 {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/NordLabUCD" color="#0d94e7" %} 
 
