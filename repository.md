@@ -1,6 +1,6 @@
 ---
 title: Repository
-layout: categories
+layout: default
 excerpt: "Nord Lab Repository"
 aside: true
 ---
