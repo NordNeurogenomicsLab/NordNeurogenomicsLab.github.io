@@ -1,6 +1,9 @@
 ---
 title: Repository
 layout: default
+feature_text: |
+  Repo
+feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "Nord Lab Repository"
 aside: true
 ---
