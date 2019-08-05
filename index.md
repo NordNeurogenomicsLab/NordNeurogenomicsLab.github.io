@@ -7,11 +7,21 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 At the Nord Neurogenomics Lab, we are seeking to explore gene regulatory circuits and chromatin dynamics in the brain as well as how these features contribute to brain development, evolution, and function. To do this, we use a variety of computational tools and procedures, all of which can be found on this website! 
 
+<style>
+div.ex1 {
+  width: 300px;
+  height: 400px;
+  overflow-y: scroll;
+}
+<style>
+
 {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/NordLabUCD" color="#0d94e7" %} 
 
-<a class="twitter-timeline" data-tweet-limit="8" data-theme="dark" href="https://twitter.com/NordLabUCD" data-width="300" data-height="400">Tweets by The Nord Lab</a>   
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="ex1"> 
+  <a class="twitter-timeline" data-tweet-limit="8" data-theme="dark" href="https://twitter.com/NordLabUCD" data-width="300" data-height="400">Tweets by The Nord Lab</a>   
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 
 
