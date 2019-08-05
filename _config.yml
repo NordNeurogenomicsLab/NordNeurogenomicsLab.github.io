@@ -111,11 +111,11 @@ navigation_header:
 - title: Home
   url: /
 - title: Repository
-  url: /nord_repo.github.io/categories/
+  url: /categories/
 - title: Publications
   url: /publications/
 - title: Search
-  url: /_site/search/
+  url: /search/
 - title: Lab Website
   url: https://nordlab.faculty.ucdavis.edu
 
