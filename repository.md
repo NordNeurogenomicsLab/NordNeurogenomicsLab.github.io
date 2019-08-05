@@ -1,6 +1,6 @@
 ---
 title: Repository
-layout: default
+layout: page
 feature_text: |
   Repo
 feature_image: "https://picsum.photos/2560/600?image=873"
