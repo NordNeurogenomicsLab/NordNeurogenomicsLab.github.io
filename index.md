@@ -9,9 +9,6 @@ At the Nord Neurogenomics Lab, we are seeking to explore gene regulatory circuit
 
 {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} 
 
-{% for repository in site.github.public_repositories %}
-  * [{{ repository.name }}]({{ repository.html_url }})
-{% endfor %}
 
 
 
