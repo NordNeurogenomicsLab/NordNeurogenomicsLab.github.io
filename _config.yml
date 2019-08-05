@@ -111,7 +111,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Repository
-  url: /categories/
+  url: /repository/
 - title: Publications
   url: /publications/
 - title: Search
