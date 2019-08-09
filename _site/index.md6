@@ -1,0 +1,51 @@
+At the Nord Neurogenomics Lab, we are seeking to explore gene regulatory circuits and chromatin dynamics in the brain as well as how these features contribute to brain development, evolution, and function. To do this, we use a variety of computational tools and procedures, all of which can be found on this website! 
+
+<style>
+div.ex1 {
+  width: 300px;
+  height: 400px;
+  overflow-y: scroll;
+}
+#my-div {
+    width    : 400px;
+    height   : 200px;
+    overflow : hidden;
+    overflow-x: scroll;
+    position : relative;
+}
+#my-iframe {
+    position : absolute;
+    top      : -1000px;
+    left     : -100px;
+    width    : 280px;
+    height   : 200px;
+}
+</style>
+
+<a class="button" href="https://twitter.com/NordLabUCD" style="background: #0d94e7">Twitter&nbsp; <svg width="16" height="16" class="icon  icon--twitter" role="img" alt="twitter"><title>twitter</title><use xlink:href="#twitter" fill="CurrentColor"></use></svg>
+</a>
+ 
+
+
+<div class="ex1"> 
+  <a class="twitter-timeline" data-tweet-limit="8" data-theme="dark" href="https://twitter.com/NordLabUCD" data-width="300" data-height="400">Tweets by The Nord Lab</a>   
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<div id="my-div">
+<iframe src="https://nordlab.faculty.ucdavis.edu" id="my-iframe" scrolling="no"></iframe>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
