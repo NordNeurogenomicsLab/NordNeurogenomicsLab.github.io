@@ -3,10 +3,10 @@
 # 2. Installed Gems
 # 3. Gem settings
 # 4. Jekyll settings
-# 6. Jekyll collections settings
-# 7. Site settings
-# 8. Site favicons & manifest icons
-# 9. Site navigation
+# 5. Jekyll collections settings
+# 6. Site settings
+# 7. Site favicons & manifest icons
+# 8. Site navigation
 
 # 1. Files excluded from Jekyll builds
 exclude:
