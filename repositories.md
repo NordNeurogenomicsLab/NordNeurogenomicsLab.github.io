@@ -1,0 +1,18 @@
+---
+layout: page
+feature_text: |
+  ## Repositories      
+feature_image: "https://picsum.photos/2560/600?image=873"
+excerpt: "Nord Lab Repositories"
+---
+___
+<font size="6">
+  <ul style="list-style-type:disc;">
+    {% for repository in site.github.public_repositories %}
+      {% if repository.name != "Publications" and repository.name != "NoNGNLab.github.io" %}
+        <li><a href="{{ repository.html_url }}">{{ repository.name }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</font>
+___

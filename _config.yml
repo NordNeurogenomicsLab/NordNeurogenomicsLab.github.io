@@ -70,7 +70,6 @@ logo: "/assets/logos/icons8-brain-64.png" # Site logo, also used in jekyll-seo-t
 description: ""
 url: "https://nongnlab.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-email: "me@daviddarnes.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
 # google_analytics_anonymize_ip: ''
@@ -85,8 +84,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Repository
-  url: /repository/
+- title: Repositories
+  url: /repositories/
 - title: Publications
   url: /publications/
 - title: Search
@@ -95,10 +94,6 @@ navigation_header:
   url: https://nordlab.faculty.ucdavis.edu
 
 navigation_footer:
-- title: Site Created by Bradley Jenner
+- title: Site created by Bradley Jenner
   url: https://bnjenner.github.io
 
-sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998"
-  Email: true
