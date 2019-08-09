@@ -84,7 +84,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Nord Neurogenomics Lab Repository" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/icons8-brain-64.png" # Site logo, also used in jekyll-seo-tag
 description: ""
 url: "https://nongnlab.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
