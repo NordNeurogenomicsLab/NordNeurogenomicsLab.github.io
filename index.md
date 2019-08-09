@@ -39,7 +39,7 @@ ___
     </div>
   </div>
   <div class="column" style="text-align: center;">
-    <h5 style="margin-left: 86px; margin-top: 45px; text-align: center; color: #494949; background-color: #B2B2B2; width: 300px; height: 60px;">Nord Lab News</h5>
+    <h5 style="margin-left: 89px; margin-top: 45px; text-align: center; color: #494949; background-color: #B2B2B2; width: 300px; height: 60px;">Nord Lab News</h5>
     <div id="frameContainer" style="overflow:hidden;">
       <iframe title="iframe" id="page" href="https://nordlab.faculty.ucdavis.edu" src="https://nordlab.faculty.ucdavis.edu" scrolling="no" style="width: 300px; height: 600px; margin-top: -340px; margin-left: -0px;">      
         <base target="_parent"></base>
