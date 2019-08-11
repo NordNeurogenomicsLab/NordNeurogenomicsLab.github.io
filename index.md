@@ -46,7 +46,7 @@ div.ex1 {
 </style>
 
 ___
-<h3 style="text-align: center; margin-bottom: 20px; margin-top: -45px;  color: #FFFFFF;"> Lab News and Updates</h3>
+<h3 style="text-align: center; margin-bottom: 20px; margin-top: -40px;  color: #FFFFFF;"> Lab News and Updates</h3>
 <div class="container">
   <section class="left-col">
     <div class="ex1">
