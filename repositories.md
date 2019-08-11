@@ -1,7 +1,7 @@
 ---
 title: Repositories
 layout: page      
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "../../ai_3.jpg"
 excerpt: "Nord Lab Repositories"
 ---
 ___

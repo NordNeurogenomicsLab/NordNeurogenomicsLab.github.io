@@ -1,8 +1,7 @@
 ---
 feature_text: |
   # Nord Neurogenomics Lab Repository
-  A place where the smartest people on Earth do science!
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "ai_2.jpg"
 ---
 > <p style="text-align: center; text-indent: 1em;"> At the Nord Neurogenomics Lab, we explore gene regulatory circuits and chromatin dynamics in the brain and uncover how these features contribute to brain development, evolution, and function. To do this, we use a variety of computational tools and procedures, all of which can be found on this website!</p> 
 
