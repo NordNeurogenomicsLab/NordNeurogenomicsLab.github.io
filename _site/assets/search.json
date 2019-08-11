@@ -9,6 +9,27 @@
   
   
   {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Publications",
+    "excerpt": "Publications by the Nord Lab\n",
+    "content": "\n\n\n\n\n  \n    \n      \n    \n      \n        https://api.github.com/repos/NoNGNLab/Publications/contents/{+path} \n        \n          item\n        \t \n        item\n        \n      \n    \n      \n    \n  \n\n\n\n\n\n",
+    "url": "/publications/"
+  },
+  
+  {
+    "title": "Repositories",
+    "excerpt": "Nord Lab Repositories\n",
+    "content": "\n\n\n  \n    \n      \n    \n      \n    \n      \n        test_repo\n      \n    \n  \n\n\n\n",
+    "url": "/repositories/"
+  },
+  
+  {
     "title": "Search",
     "excerpt": "Search for a page or post you’re looking for\n",
     "content": "{% include site-search.html %}\n",

@@ -1,7 +1,6 @@
 ---
-layout: page
-feature_text: |
-  ## Repositories      
+title: Repositories
+layout: page      
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "Nord Lab Repositories"
 ---
