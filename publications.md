@@ -8,24 +8,10 @@ path: ""
 ---
 ___
 
-<div id="publications"></div>
-
 <font size="6">
-  <ul style="list-style-type:disc;">
-    {% for repository in site.github.public_repositories %}
-      {% if repository.name == "Publications" %}
-        {{ repository.contents_url }} 
-        {% for item in repository.contents_url %}
-          item
-        {% endfor %}	 
-        item
-        {% for project in repository.projects %}
-          <li>{{ project }}</li>
-        {% endfor %}
-      {% endif %}
-    {% endfor %}
-  </ul>
+  <div id="publications"></div>
 </font>
+
 ___
 
 <script src="../../main.js"></script>

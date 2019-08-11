@@ -18,7 +18,7 @@
   {
     "title": "Publications",
     "excerpt": "Publications by the Nord Lab\n",
-    "content": "\n\n\n\n\n  \n    \n      \n    \n      \n        https://api.github.com/repos/NoNGNLab/Publications/contents/{+path} \n        \n          item\n        \t \n        item\n        \n      \n    \n      \n    \n  \n\n\n\n\n\n",
+    "content": "\n\n\n  \n\n\n\n\n\n\n",
     "url": "/publications/"
   },
   
