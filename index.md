@@ -39,10 +39,9 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 div.ex1 {
   display: inline-block;
+  height: 311px;
   margin-top: 45px;
   margin-bottom: 45px; 
-  width: 300px;
-  height: 313px;
   overflow-y: scroll;
 }
 </style>
