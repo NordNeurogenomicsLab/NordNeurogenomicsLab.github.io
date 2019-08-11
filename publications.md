@@ -13,7 +13,7 @@ ___
   <ul style="list-style-type:disc;">
     {% for repository in site.github.public_repositories %}
       {% if repository.name == "Publications" %}
-        {{ repository.contents_url.* }} 
+        {{ repository.contents_url }} 
         {% for item in repository.contents_url %}
           item
         {% endfor %}	 

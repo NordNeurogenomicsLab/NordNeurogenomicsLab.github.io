@@ -53,6 +53,14 @@ permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Europe/London # Timezone for blog posts and alike
 
+collections:
+  posts:
+    title: Posts # Needed for Siteleaf
+    output: true
+    description: "My thoughts and ideas" # The post list page content
+    feature_text: |
+      Welcome to the blog
+    feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 5. Jekyll collections settings
 defaults:
@@ -70,6 +78,7 @@ logo: "/assets/logos/icons8-brain-64.png" # Site logo, also used in jekyll-seo-t
 description: ""
 url: "https://nongnlab.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
+repo: "https://github.com/NoNGNLab/NoNGNLab.github.io"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
 # google_analytics_anonymize_ip: ''
@@ -92,6 +101,10 @@ navigation_header:
   url: /search/
 - title: Lab Website
   url: https://nordlab.faculty.ucdavis.edu
+
+social_links:
+- RSS: /feed.xml
+- link: https://nongnlab.github.io/
 
 navigation_footer:
 - title: Site created by Bradley Jenner
