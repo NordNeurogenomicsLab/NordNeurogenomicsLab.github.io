@@ -1,7 +1,7 @@
 ---
 title: Repositories
 layout: page      
-feature_image: "../../ai_3.jpg"
+feature_image: "../../images/ai_3.jpg"
 excerpt: "Nord Lab Repositories"
 ---
 ___
@@ -11,4 +11,4 @@ ___
 </font>
 ___
 
-<script src="../../main_repo.js"></script>
+<script src="../../scripts/repo.js"></script>

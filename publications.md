@@ -2,7 +2,7 @@
 title: Publications
 layout: page
 excerpt: "Publications by the Nord Lab"
-feature_image: "../../coding.jpg"
+feature_image: "../../images/coding.jpg"
 repository: NoNGNLab/Publications
 path: ""
 ---
@@ -14,4 +14,4 @@ ___
 
 ___
 
-<script src="../../main_pub.js"></script>
+<script src="../../scripts/pub.js"></script>

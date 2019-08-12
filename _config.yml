@@ -57,10 +57,8 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
-    feature_text: |
-      Welcome to the blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    description: "Nord Lab Posts" # The post list page content
+    feature_image: "scripts/ai_3.jpg"
 
 # 5. Jekyll collections settings
 defaults:
@@ -76,7 +74,7 @@ lang: en-GB # Set the site language
 title: "Nord Neurogenomics Lab Repository" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/icons8-brain-64.png" # Site logo, also used in jekyll-seo-tag
 description: ""
-url: "https://nongnlab.github.io/" # Site url, also used in jekyll-seo-tag
+url: "https://NordNeurogenomicsLab.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
@@ -96,14 +94,12 @@ navigation_header:
   url: /repositories/
 - title: Publications
   url: /publications/
-- title: Search
-  url: /search/
 - title: Lab Website
   url: https://nordlab.faculty.ucdavis.edu
 
 social_links:
 - RSS: /feed.xml
-- link: https://nongnlab.github.io/
+- link: https://NordNeurogenomicsLab.github.io/
 
 navigation_footer:
 - title: Site created by Bradley Jenner

@@ -20,13 +20,6 @@
     "excerpt": "Nord Lab Repositories\n",
     "content": "\n\n\n  \n\n\n\n\n\n",
     "url": "/repositories/"
-  },
-  
-  {
-    "title": "Search",
-    "excerpt": "Search for a page or post you’re looking for\n",
-    "content": "{% include site-search.html %}\n",
-    "url": "/search/"
   }
   
 ]
