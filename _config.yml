@@ -92,6 +92,8 @@ navigation_header:
   url: /
 - title: Repositories
   url: /repositories/
+- title: Shiny App
+  url: https://nordlab.shinyapps.io/base_camp/
 - title: Publications
   url: /publications/
 - title: Lab Website

@@ -44,10 +44,8 @@ div.ex1 {
 </style>
 
 > <p style="text-align: center; text-indent: 1em;"> At the Nord Neurogenomics Lab, we explore gene regulatory circuits and chromatin dynamics in the brain and uncover how these features contribute to brain development, evolution, and function. To do this, we use a variety of computational tools and procedures, some of which can be found on this website!</p> 
-
-___
-
-<div class="container">
+<hr width="100%">
+<div class="container" style="margin-top: -30px; height: 50px;">
   <section class="left-col" style="background-color: #565656;">
     <h3><a href="https://nordneurogenomicslab.github.io/publications/" style="text-align: center; margin-bottom: 20px; margin-top: -40px;">Publications</a></h3>
   </section>
@@ -55,9 +53,10 @@ ___
     <h3><a href="https://nordneurogenomicslab.github.io/repositories/" style="text-align: center; margin-bottom: 20px; margin-top: -40px;">Repositories</a></h3>
   </aside>
 </div>
+<hr width="100%">
 
-___
-<h3 style="text-align: center; margin-bottom: 20px; margin-top: -40px;  color: #FFFFFF;"> Lab News and Updates</h3>
+<h3 style="text-align: center; margin-bottom: -15px; margin-top: -30px;  color: #FFFFFF;"> Lab News and Updates</h3>
+<hr width="100%">
 <div class="container">
   <section class="left-col">
     <div class="ex1">
@@ -78,5 +77,4 @@ ___
     </div>
   </aside>
 </div>    
-___
 
