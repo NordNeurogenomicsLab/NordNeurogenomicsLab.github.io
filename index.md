@@ -55,10 +55,10 @@ hr {
     <h3><a href="https://nordneurogenomicslab.github.io/repositories/" style="text-align: center; margin-bottom: 20px; margin-top: -40px;">Repositories</a></h3>
   </section>
   <aside class="right-col" style="background-color: #565656;">
-    <h3><a href="https://nordlab.shinyapps.io/base_camp/" style="text-align: center; margin-bottom: 20px; margin-top: -40px;">Shiny App</a></h3>
+    <h3><a href="https://nordlab.shinyapps.io/base_camp/" style="text-align: center; margin-bottom: 20px; margin-top: -40px;" target="_blank">Shiny App</a></h3>
   </aside>
 </div>
-<h3 style="margin-bottom: -20px; margin-top: 50px;"><a href="https://nordneurogenomicslab.github.io/publications/" style="text-align: center;">Publictions</a></h3>
+<h3 style="margin-bottom: -20px; margin-top: 50px;"><a href="https://nordneurogenomicslab.github.io/publications/" style="text-align: center;">Publications</a></h3>
 
 <hr>
 <h3 style="text-align: center; margin-bottom: 30px; margin-top: -40px;">Welcome to the Nord Lab Repository</h3>
