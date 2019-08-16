@@ -9,7 +9,7 @@ path: ""
 
 <font size="5">
   <div style="align: center; margin-top: 40px;">Below are the links to the web-hosted track hubs and other relevant information. 
-     For a complete list of our publications <a href="https://nordlab.shinyapps.io/base_camp/">click here.</a>
+     For a complete list of our publications <a href="https://nordlab.shinyapps.io/base_camp/" target="_blank">click here.</a>
   </div>
 </font>
 <hr width="100%" style="top-margin: -200px;">
