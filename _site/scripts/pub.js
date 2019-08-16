@@ -33,7 +33,7 @@ function renderHTML(data) {
   })
 
   for (i = 0; i < pubList.length; i++) { 
-     htmlString += "<p><a href=\"" + pubList[i].split("$$$").slice(-1)[0] + "/README.md\">" + pubList[i].split("$$$").slice(-1)[0], 10 + "</a></p>";
+     htmlString += "<p><a href=\"" + pubList[i].split("$$$")[0] + "/README.md\">" + pubList[i].split("$$$").slice(-1)[0] + "</a></p>";
   }
   pubContainer.insertAdjacentHTML('beforeend', htmlString);
 }
