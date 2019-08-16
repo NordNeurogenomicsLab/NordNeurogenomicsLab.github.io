@@ -15,7 +15,7 @@ function renderHTML(data) {
 
   for (i = 0; i < data.length; i++) {
     if (data[i].name != "Publications" && data[i].name != "NordNeurogenomicsLab.github.io") { 
-      htmlString += "<p><a href=\"" + data[i].html_url + "\">" + data[i].name + "</a></p>";
+      htmlString += "<p><a href=\"" + data[i].html_url + "\"  target=\"_blank\">" + data[i].name + "</a></p>";
     }
   }
   pubContainer.insertAdjacentHTML('beforeend', htmlString);
