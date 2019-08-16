@@ -8,7 +8,7 @@ feature_image: "/images/ai_2.jpg"
 <style>
 .container {
   text-align: center;
-  width: 93%;
+  width: 100%;
   margin: 0px auto;
 }
 .left-col {
@@ -21,7 +21,6 @@ feature_image: "/images/ai_2.jpg"
   float: left;
   background: #666666;
 }
-
 @media screen and (max-width:950px) {
   .left-col {
   width: 100%;
@@ -33,7 +32,6 @@ feature_image: "/images/ai_2.jpg"
   }
 
 }
-
 div.ex1 {
   display: inline-block;
   height: 311px;
@@ -41,11 +39,15 @@ div.ex1 {
   margin-bottom: 45px; 
   overflow-y: scroll;
 }
+hr {
+    display: block;
+    width: 100%;
+    padding: 0;
+    top-maring: -10px;
+}
 </style>
 
-> <p style="text-align: center; text-indent: 1em;"> At the Nord Neurogenomics Lab, we explore gene regulatory circuits and chromatin dynamics in the brain and uncover how these features contribute to brain development, evolution, and function. To do this, we use a variety of computational tools and procedures, some of which can be found on this website!</p> 
-<hr width="100%">
-<div class="container" style="margin-top: -30px; height: 50px;">
+<div class="container" style="margin-top: -20px; height: 50px;">
   <section class="left-col" style="background-color: #565656;">
     <h3><a href="https://nordneurogenomicslab.github.io/publications/" style="text-align: center; margin-bottom: 20px; margin-top: -40px;">Publications</a></h3>
   </section>
@@ -53,6 +55,9 @@ div.ex1 {
     <h3><a href="https://nordneurogenomicslab.github.io/repositories/" style="text-align: center; margin-bottom: 20px; margin-top: -40px;">Repositories</a></h3>
   </aside>
 </div>
+<hr/>
+
+> <font size="3"><p style="text-align: center; text-indent: 1em;"> At the Nord Neurogenomics Lab, we explore gene regulatory circuits and chromatin dynamics in the brain and uncover how these features contribute to brain development, evolution, and function. To do this, we use a variety of computational tools and procedures, some of which can be found on this website!</p></font> 
 <hr width="100%">
 
 <h3 style="text-align: center; margin-bottom: -15px; margin-top: -30px;  color: #FFFFFF;"> Lab News and Updates</h3>
