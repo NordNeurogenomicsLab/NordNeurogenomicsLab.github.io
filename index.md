@@ -60,7 +60,9 @@ hr {
 </div>
 <hr>
 <div style="text-align: center; margin-top: -35px; margin-bottom: -25px;">Scoll down for News and Updates!</div>
+
 <hr>
+<h3 style="text-align: center; margin-bottom: 30px; margin-top: -40px;">Welcome to the Nord Lab Repository</h3>
 > <font size="3"><p style="text-align: center; text-indent: 1em; margin-top: -25px; margin-bottom: -25px;"> At the Nord Neurogenomics Lab, we explore gene regulatory circuits and chromatin dynamics in the brain and uncover how these features contribute to brain development, evolution, and function. To do this, we use a variety of computational tools and procedures, some of which can be found on this website!</p></font> 
 <hr>
 
