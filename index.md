@@ -5,6 +5,7 @@ feature_image: "/images/ai_2.jpg"
 ---
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <style>
 .container {
   text-align: center;
@@ -35,7 +36,7 @@ feature_image: "/images/ai_2.jpg"
   }
 
 }
-div.ex1 {
+div.emb {
   display: inline-block;
   height: 311px;
   margin-top: 45px;
@@ -62,14 +63,13 @@ hr {
 
 <hr>
 <h3 style="text-align: center; margin-bottom: 30px; margin-top: -40px;">Welcome to the Nord Lab Repository</h3>
-> <font size="5"><p style="text-align: center; text-indent: 1em; margin-top: -25px; margin-bottom: -25px;"> At the Nord Neurogenomics Lab, we explore gene regulatory circuits and chromatin dynamics in the brain and uncover how these features contribute to brain development, evolution, and function. To do this, we use a variety of computational tools and procedures, some of which can be found on this website!</p></font> 
+> <font size="5"><p style="color: #B2B2B2; text-align: center; text-indent: 1em; margin-top: -25px; margin-bottom: -25px;"> At the Nord Neurogenomics Lab, we explore gene regulatory circuits and chromatin dynamics in the brain and uncover how these features contribute to brain development, evolution, and function. To do this, we use a variety of computational tools and procedures, some of which can be found on this website!</p></font> 
 <hr>
-
 
 <h3 style="text-align: center; margin-bottom: 20px; margin-top: -50px;  color: #FFFFFF;"> Lab News and Updates</h3>
 <div class="container">
   <section class="left-col">
-    <div class="ex1">
+    <div class="emb">
       <a class="twitter-timeline" data-tweet-limit="8" data-theme="dark" href="https://twitter.com/NordLabUCD" data-width="300" data-height="230"></a>
       <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>    

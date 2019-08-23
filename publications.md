@@ -4,7 +4,6 @@ layout: page
 excerpt: "Publications by the Nord Lab"
 feature_image: "../../images/coding.jpg"
 repository: NoNGNLab/Publications
-path: ""
 ---
 
 <font size="5">
