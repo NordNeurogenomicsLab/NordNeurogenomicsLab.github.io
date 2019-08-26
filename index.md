@@ -28,11 +28,12 @@ feature_image: "/images/ai_2.jpg"
   .left-col {
   width: 100%;
   background: #666666;
-  margin-bottom: 0px;
+  margin-bottom: 6px;
   }
   .right-col {
     width: 100%;
     background: #666666;
+    margin-bottom: 15px;
   }
 
 }
