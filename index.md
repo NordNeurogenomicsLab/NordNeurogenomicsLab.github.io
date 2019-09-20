@@ -77,7 +77,7 @@ hr {
   </section>
   <aside class="right-col">
     <div style="width: 300px; height: 600; display: inline-block; margin-bottom: 45px; margin-top: 45px;">
-      <a style="position: absolute; width: 300px; height: 240px; z-index: 0; display: block; overflow:hidden;" href="https://nordlab.faculty.ucdavis.edu/news/" target="_blank"></a>
+      <a style="position: absolute; width: 300px; height: 250px; z-index: 0; display: block; overflow:hidden;" href="https://nordlab.faculty.ucdavis.edu/news/" target="_blank"></a>
       <a style="display: block; overflow:hidden;">
         <h5 style="text-align: center; color: #494949; background-color: #B2B2B2; width: 300px; height: 60px;">Nord Lab News</h5>
       </a>
