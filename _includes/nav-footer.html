@@ -10,10 +10,11 @@
       {% endif %}
 
       <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
-        <a href="{{ url }}">{{ item.title }}</a>
+        <a href="{{ url }}" style="font-size:medium;">{{ item.title }}</a>
       </li>
     {% endfor %}
   </ul>
+  <a href="https://github.com/daviddarnes/alembic" style="font-size:medium;">Theme: 'Alembic' by David Darnes </a>
 </nav>
 {% else %}
   {% include nav-default.html %}
