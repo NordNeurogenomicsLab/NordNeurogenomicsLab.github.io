@@ -1,4 +1,5 @@
 ---
+layout: page
 feature_text: |
   # Nord Neurogenomics Lab Repository
 feature_image: "/images/ai_2.jpg"
