@@ -70,20 +70,20 @@ hr {
 
 <h3 style="text-align: center; margin-bottom: 20px; margin-top: -50px;  color: #FFFFFF;"> Lab News and Updates</h3>
 <div class="container">
-  <section class="left-col">
+  <section class="left-col"  style="border-top-left-radius: 15px;">
     <div class="emb">
-      <a class="twitter-timeline" data-tweet-limit="8" data-theme="dark" href="https://twitter.com/NordLabUCD" data-width="300" data-height="230"></a>
+      <a class="twitter-timeline" data-tweet-limit="8" data-theme="dark" href="https://twitter.com/NordLabUCD" data-width="300" data-height="230" style="border-top-right-radius: 15px"></a>
       <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>    
   </section>
-  <aside class="right-col">
+  <aside class="right-col" style="border-top-right-radius: 15px;">
     <div style="width: 300px; height: 600; display: inline-block; margin-bottom: 45px; margin-top: 45px;">
       <a style="position: absolute; width: 300px; height: 250px; z-index: 0; display: block; overflow:hidden;" href="https://nordlab.faculty.ucdavis.edu/news/" target="_blank"></a>
       <a style="display: block; overflow:hidden;">
-        <h5 style="text-align: center; color: #494949; background-color: #B2B2B2; width: 300px; height: 60px;">Nord Lab News</h5>
+        <h5 style="text-align: center; color: #494949; background-color: #B2B2B2; width: 300px; height: 60px; display: block; overflow:hidden; border-top-left-radius: 15px; border-top-right-radius: 15px;">Nord Lab News</h5>
       </a>
       <div id="frameContainer" style="overflow:hidden;">
-        <iframe title="iframe" id="mainframe" href="https://nordlab.faculty.ucdavis.edu" src="https://nordlab.faculty.ucdavis.edu" scrolling="no" style="width: 300px; height: 600px; margin-top: -340px; margin-left: 0px;">
+        <iframe title="iframe" id="mainframe" href="https://nordlab.faculty.ucdavis.edu" src="https://nordlab.faculty.ucdavis.edu" scrolling="no" style="width: 300px; height: 600px; margin-top: -340px; margin-left: 0px; display: block; overflow:hidden; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px;">
         </iframe>
       </div>
     </div>
